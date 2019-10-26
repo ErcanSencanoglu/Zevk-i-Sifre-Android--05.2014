@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zevk-i Sifre 2</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_acilis2">Acilis2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_kategori_sekme">KategoriSekme</string>
+    <string name="kategoriler">Kategoriler</string>
+   <string name="brazzers">Bra</string>
+    <string name="reality">Rgg</string>
+    <string name="mofos">Mfs</string>
+    <string name="playboy">Pboy</string>
+    <string name="babes">Bbs</string>
+    <string name="digerleri">Digerleri</string>
+    <string name="tumu">Tümü</string>
+    <string name="duyurular">Duyurular</string>
+    <string name="cikis">Çıkış</string>
+    <string name="userName">Kullanıcı Adı:</string>
+    <string name="password">Sifre:</string>
+    <string name="date">Tarih:</string>
+    <string name="Categories">Kategori:</string>
+    <string name="hata">Hata</string>
+    <string name="hataMessage">İnternet Baglantınızı Kontrol Ediniz</string>
+    <string name="hataTamam">Tamam</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="hataMessageTwo">Beklenmeyen bir hata oluştu\nBunun için özür dileriz</string>
+     <string name="pcsite">Bilgi:</string>
+     <string name="tavsiye">Mobilden girenlerin linkler için opera mini\nkullanmalarını tavsiye ediyoruz.</string>
+     <string name="facebook">Bizi facebook ve twiiteer hesaplarımızdan takip ediniz.</string> 
+     <string name="face">Facebook:</string>
+      <string name="faceLink">www.facebook.com/zevki.sifre</string>
+     <string name="kullanim">Uygulamının kullanımı hakkında\nbilgi almak için Facebook sayfamızı\nziyaret edebilirsiniz.</string>
+</resources>
